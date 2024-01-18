@@ -1,97 +1,42 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Science, Computer Sciencee
+      institution: University of Washington
+      year: 2025
+    - title: Associate of Science, Engineering
+      institution: Cascadia College
+      year: 2022
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistang, Software Engineering & Embedded Systems
+      institution: NASA & Paul G. Allen School of Computer Science and Engineering
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Optimized a pulse width modulation system using C/C++ to precisely control the speed of a micro-sized helicopter, significantly reducing overall run time complexity.
+        - Designed a user-friendly interface for controlling a micro-sized helicopter, enabling seamless client interaction.
+        - Assisted in construction and design of micro-sized helicopter’s printed circuit board, reducing average power consumption by 75%
+    - title: Treasurer
+      institution: Tau Beta Pi Engineering Honor Society
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Administered and managed the honor society's budget, ensuring accurate allocation of funds for events, scholarships, and operational costs, resulting in a 30% increase in financial efficiency year-over-year.
+        - Collaborated with society leaders, members, and external partners to identify financial needs, ensuring transparent and effective fund distribution, and played a pivotal role in securing sponsorships and fundraising efforts that boosted the society's reserves.
+    - title: Software Development Manager
+      institution: WebImpact, University of Washington
+      year: 2022 - 2023
       description:
+        - Led a high-performing front-end development team of 4 front-end developers, ensuring timely and successful delivery of projects to client.
+        - Streamlined a responsive website using HTML, CSS, JavaScript, and React, resulting in an intuitive and engaging user experience.
+        - Conducted weekly client meetings to provide project updates and questions, allowing for the fostering of strong positive client relationships, aligning deliverables with client expectations.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Languages
+  type : list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+    - English, Uyghur
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Weightlifting, Basketball, Hiking

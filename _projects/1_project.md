@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SIMplicity
-description: An intuitive and easy-to-use web application that offers peer-to-peer voice calling functionality, built for Dubhacks 2023.
+description: an intuitive and easy-to-use web application that offers peer-to-peer voice calling functionality, built for Dubhacks 2023.
 img: assets/img/portfolio-1.png
 importance: 1
 category: work
@@ -20,4 +20,4 @@ The technology stack of Simplicity includes WebRTC for real-time communication a
 
 Contributions to Simplicity come from Michael Ibrahim, Aruna Srivastava, and Ben Wang, as listed in the project's documentation. The project is open-source, licensed under the MIT License, ensuring wide accessibility and the possibility for further development by the community.
 
-You can access it [here](https://github.com/micbrahim/SIMplicity)
+you can access it [here](https://github.com/micbrahim/SIMplicity)
