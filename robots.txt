@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://micbrahim.github.io/sitemap.xml
+Sitemap: https://homes.cs.washington.edu/~micibr//sitemap.xml
