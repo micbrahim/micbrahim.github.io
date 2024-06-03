@@ -4,6 +4,9 @@
     - title: Bachelor of Science, Computer Science
       institution: University of Washington
       year: 2025
+    - title: Bachelor of Science, Informatics
+      institution: University of Washington
+      year: 2025
     - title: Associate of Science, Engineering
       institution: Cascadia College
       year: 2022
@@ -11,7 +14,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistang, Software Engineering & Embedded Systems
+    - title: Research Assistant, Software Engineering & Embedded Systems
       institution: NASA & Paul G. Allen School of Computer Science and Engineering
       year: 2023 - Present
       description:

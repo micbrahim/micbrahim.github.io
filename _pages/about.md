@@ -12,15 +12,14 @@ profile:
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a current undergraduate at the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu) studying computer science. I'm also a research assistant at the SSOL Lab, advised by [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/).
+Hi! I'm a current undergraduate at the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu) studying computer science. I'm also a research assistant at the SSOL Lab, advised by [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/), where I focus on creating embedded system software for micro-scale robots.
 
-I'm also interested in the intersectionality of computing and ethics, being a long-time teaching assistant for the [computer ethics course](https://courses.cs.washington.edu/courses/cse480/), especially in the realm of making technology "less evil".
-
-I also focus on outreach of computer science and other STEM topics to underprivileged and underserved communities. I'm an [Allen School Ambassador](https://www.cs.washington.edu/outreach/ambassador) and also an [AVELA](http://students.washington.edu/avelauw/index.html) teacher and mentor. I find it fulfilling to help out communities that I was once part of. You can even set up a 1-1 ambassador meeting with me [here](https://app.acuityscheduling.com/schedule/f5f42c11/appointment/20061746?appointmentTypeIds%5B%5D=20061746).
+I also focus on outreach of computer science and other STEM topics to underprivileged and underserved communities. I'm an [Allen School Ambassador](https://www.cs.washington.edu/outreach/ambassador), and also a teacher and mentor at both [AVELA](http://students.washington.edu/avelauw/index.html) and [Rawan](https://www.rawanmentorship.org/). 
+I find it fulfilling to help out communities that I was once part of. You can even set up a 1-1 ambassador meeting with me [here](https://UWCSEappointments.as.me/?location=https%3A%2F%2Fwashington.zoom.us%2Fmy%2Fmichaelibrahim).
 
 
 

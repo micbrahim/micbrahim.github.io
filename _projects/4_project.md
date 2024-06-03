@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vaccine Scheduler
+title: Global Health-Spend Interface
 description: skillfully integrates diverse global health spending data using R-based tools, providing an interactive dashboard for dynamic exploration of the relationships between health expenditures and key socioeconomic and demographic indicators
 img: assets/img/portfolio-4.png
 importance: 4
