@@ -14,6 +14,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer Intern (Signed NDA)
+      institution: NASA & Paul G. Allen School of Computer Science and Engineering
+      year: 2024
+      description:
+        - Developed and maintained dynamic user interfaces utilizing PHP and JavaScript, enhancing user experience and interactivity for web applications.
+        - Collaborated with cross-functional teams to design and implement RESTful APIs, integrating backend PHP services with front-end JavaScript components.
+        - Conducted successful end-to-end testing of the interface with various networking components, ensuring seamless data exchange and robust performance across different environments.
     - title: Research Assistant, Software Engineering & Embedded Systems
       institution: NASA & Paul G. Allen School of Computer Science and Engineering
       year: 2023 - Present
