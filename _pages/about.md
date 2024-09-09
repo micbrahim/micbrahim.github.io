@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a current undergraduate at the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu) studying computer science. I'm also a research assistant at the SSOL Lab, advised by [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/), where I focus on creating embedded system software for micro-scale robots.
+Hi! I'm a current undergraduate at the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu) and [Information School](https://ischool.uw.edu) studying computer science and informatics. I'm also a research assistant at the SSOL Lab, advised by [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/), where I focus on creating embedded system software for micro-scale robots.
 
 I also focus on outreach of computer science and other STEM topics to underprivileged and underserved communities. I'm an [Allen School Ambassador](https://www.cs.washington.edu/outreach/ambassador), and also a teacher and mentor at both [AVELA](http://students.washington.edu/avelauw/index.html) and [Rawan](https://www.rawanmentorship.org/). 
 I find it fulfilling to help out communities that I was once part of. You can even set up a 1-1 ambassador meeting with me [here](https://UWCSEappointments.as.me/?location=https%3A%2F%2Fwashington.zoom.us%2Fmy%2Fmichaelibrahim).
